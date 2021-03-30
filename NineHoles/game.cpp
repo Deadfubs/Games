@@ -1,0 +1,6 @@
+#include <QDebug>
+
+game::game()
+{
+
+}
